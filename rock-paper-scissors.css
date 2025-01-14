@@ -10,18 +10,18 @@ body {
 }
 
 .move-icon {
-  height: 8rem;
+  height: 7rem;
 }
 
 .move-icon2 {
-  height: 5rem;
+  height: 6rem;
 }
 
 .move-button {
   background-color: transparent;
   border: 3px solid white;
-  width: 13rem;
-  height: 13rem;
+  width: 10rem;
+  height: 10rem;
   border-radius: 120px;
   margin: 1rem;
   cursor: pointer;
@@ -36,7 +36,8 @@ body {
   margin-top: 4rem;
 }
 
-.reset-score-button {
+.reset-score-button,
+.auto-play-b {
   border: none;
   font-size: 1rem;
   padding: 10px 15px;
