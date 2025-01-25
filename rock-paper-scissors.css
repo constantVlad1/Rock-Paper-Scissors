@@ -37,9 +37,15 @@ body {
 }
 
 .reset-score-button,
-.auto-play-b {
+.auto-play-b,
+.reset-confirm-button {
+  background-color: white;
   border: none;
-  font-size: 1rem;
-  padding: 10px 15px;
+  font-size: 15px;
+  padding: 8px 15px;
   cursor: pointer;
+}
+
+.reset-confirm-button {
+  margin-left: 10px;
 }
